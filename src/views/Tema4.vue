@@ -5,7 +5,7 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 4
-        h1 Indicadores de sistemas de información empresarial
+        h1 Indicadores de sistemas de información
 
       .row.justify-content-center.mb-4
         .col-md-5
@@ -205,7 +205,7 @@
           .row.justify-content-center.align-items-center.my-lg-4
             .col-md-7.mb-4.mb-md-0
               h3.mb-4(style="margin-top: -70px;") Activar la restauración del sistema
-              p La restauración de los sistemas operativos es una herramienta que puede “salvarnos la vida” ante un error del software, instalación de drivers o de alguna aplicación que no funciona correctamente y también ante la entrada de un virus en nuestro equipo. Las herramientas de recuperación del sistema, permiten revertir los cambios realizados en los archivos del sistema operativo, configuración, ajustes, controladores, claves de registro o programas instalados y que, en ocasiones, desestabilizan el sistema operativo.
+              p La restauración de los sistemas operativos es una herramienta que puede “salvarnos la vida” ante un error del <i>software</i>, instalación de <i>drivers</i> o de alguna aplicación que no funciona correctamente y también ante la entrada de un virus en nuestro equipo. Las herramientas de recuperación del sistema, permiten revertir los cambios realizados en los archivos del sistema operativo, configuración, ajustes, controladores, claves de registro o programas instalados y que, en ocasiones, desestabilizan el sistema operativo.
 
             .col-md-5
               figure
@@ -214,7 +214,7 @@
           .row.justify-content-center.align-items-center.my-lg-4
             .col-md-7.mb-4.mb-md-0
               h3.mb-4(style="margin-top: -70px;") Valorar el cifrado de datos
-              p Cifrar o “codificar” los datos de su equipo para mantenerlos protegidos, haciendo frente a amenazas como el robo de datos o la exposición en caso de pérdida, el robo o la retirada inapropiada de equipos, es una medida interesante, especialmente en el segmento profesional y corporativo. Los proveedores de software ofrecen múltiples soluciones para hacerlo y algunos sistemas operativos cuentan con herramientas nativas. 
+              p Cifrar o “codificar” los datos de su equipo para mantenerlos protegidos, haciendo frente a amenazas como el robo de datos o la exposición en caso de pérdida, el robo o la retirada inapropiada de equipos, es una medida interesante, especialmente en el segmento profesional y corporativo. Los proveedores de <i>software</i> ofrecen múltiples soluciones para hacerlo y algunos sistemas operativos cuentan con herramientas nativas. 
 
             .col-md-5
               figure

@@ -68,18 +68,16 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Indicadores de sistemas de información empresarial',
+        titulo: 'Indicadores de sistemas de información',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
-            numero: '4.1',
             titulo: 'Medidas correctivas',
             hash: 't_4_1',
           },
           {
             icono: 'far fa-file-alt',
-            numero: '4.2',
             titulo: 'Acciones de mejora en sistemas de información',
             hash: 't_4_2',
           },
@@ -94,7 +92,6 @@ export default {
         subMenu: [
           {
             icono: 'far fa-file-alt',
-            numero: '5.1',
             titulo: 'Calidad y divulgación de la información',
             hash: 't_5_1',
           },
@@ -200,7 +197,7 @@ export default {
     {
       termino: 'Consulta de datos',
       significado:
-        'se está realizando una consulta cada vez que algún tipo de usuario busca información de cualquier tipo, en cualquiera de las diferentes tablas de una o varias bases de datos',
+        'se está realizando una consulta cada vez que algún tipo de usuario busca información de cualquier tipo, en cualquiera de las diferentes tablas de una o varias bases de datos.',
     },
     {
       termino: 'Gráfico dinámico',

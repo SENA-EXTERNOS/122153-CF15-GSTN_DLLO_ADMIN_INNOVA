@@ -12,7 +12,7 @@
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img5.png', alt='imagen relacionada')
       .col-md-7      
-        p.mb-0 Teniendo claros los conceptos de datos y bases de datos, llegamos al Sistema de Gestión de Bases de Datos (SGBD), el cual se refiere a un software que administra y facilita a los usuarios para disponer, manipular y trabajar con la información de forma segura y con estándares de calidad. Para que un SGBD pueda operar adecuadamente, es necesario que exista una relación o conexión entre los datos (estructura), para crear relaciones funcionales y que faciliten la gestión de estas bases de datos, factor importante para la eficacia en su funcionamiento. El SGBD además, debe brindar herramientas funcionales y afines al objeto de la organización y utilidad de la información, para brindar asimismo una estructura de datos adecuada.
+        p.mb-0 Teniendo claros los conceptos de datos y bases de datos, llegamos al Sistema de Gestión de Bases de Datos (SGBD), el cual se refiere a un <i>software</i> que administra y facilita a los usuarios para disponer, manipular y trabajar con la información de forma segura y con estándares de calidad. Para que un SGBD pueda operar adecuadamente, es necesario que exista una relación o conexión entre los datos (estructura), para crear relaciones funcionales y que faciliten la gestión de estas bases de datos, factor importante para la eficacia en su funcionamiento. El SGBD además, debe brindar herramientas funcionales y afines al objeto de la organización y utilidad de la información, para brindar asimismo una estructura de datos adecuada.
     
     p.mb-4 La integralidad mínima del SGBD está conformada de esta manera:
 
@@ -57,7 +57,7 @@
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar8.svg' alt='dibujo relacionado')
         h4.text-center Administrador de registros
-        p.text-center Este componente registra la actividad de los usuarios, los inicios de sesión, las copias de seguridad y otras acciones realizadas con el SGBD..
+        p.text-center Este componente registra la actividad de los usuarios, los inicios de sesión, las copias de seguridad y otras acciones realizadas con el SGBD.
 
       .tarjeta.color-acento-contenido.p-4(style='height:400px')
         .row.justify-content-center.mb-6
@@ -98,7 +98,7 @@
           
           .row(titulo="Requisitos de implementación")
             .col-md-12.mb-4.mb-md-0
-              p Tener un software especializado, contratación de profesionales especializados en TIC, formación y capacitación constante en temas y manejos de equipos relacionados.
+              p Tener un <i>software</i> especializado, contratación de profesionales especializados en TIC, formación y capacitación constante en temas y manejos de equipos relacionados.
       .col-md-5
         img(src='@/assets/curso/temas/texto_destacado/img6.png', alt='imagen relacionada')  
 
@@ -107,15 +107,15 @@
     .row.justify-content-center.mb-4
       .col-md-10
         .cajon.color-primario.color-fondo.p-4
-          p.mb-0 Hablando detalladamente, una consulta permite cambiar, agregar, eliminar, en otras palabras, manipular los datos de acuerdo con las necesidades específicas del momento, para generar la información consecuente a una gestión determinada. Cada programa tiene una codificación y protocolos propios para las consultas y es imprescindible tener un software.
+          p.mb-0 Hablando detalladamente, una consulta permite cambiar, agregar, eliminar, en otras palabras, manipular los datos de acuerdo con las necesidades específicas del momento, para generar la información consecuente a una gestión determinada. Cada programa tiene una codificación y protocolos propios para las consultas y es imprescindible tener un <i>software</i>.
 
-    p.mb-4 Generalmente, los software son inteligentes y no necesitan que se escriba todo lo que se requiere para que haga la consulta. Si se requiere realizar una consulta sobre análisis de datos, por ejemplo en Google, simplemente se escribe “Análisis de…”, el motor de búsqueda hará el resto y enviará sugerencias como se presenta en la Figura 1.
+    p.mb-4 Generalmente, los <i>software</i> son inteligentes y no necesitan que se escriba todo lo que se requiere para que haga la consulta. Si se requiere realizar una consulta sobre análisis de datos, por ejemplo en Google, simplemente se escribe “Análisis de…”, el motor de búsqueda hará el resto y enviará sugerencias como se presenta en la Figura 1.
 
     .mx-auto.col-md-8.mb-4
       .titulo-sexto.color-acento-contenido
         p
-          b Figura 1.
-          p Características en la descripción de cargos
+          b Figura 1
+          |  Ejemplo de búsqueda en un navegador
 
       figure.mb-5
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura1.svg', alt='diagrama')  
@@ -125,7 +125,7 @@
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img7.png', alt='imagen relacionada')
       .col-md-7      
-        p.mb-4 Desde cualquier software, con el código correcto, llamará al campo solicitado en la tabla o tablas requeridas, lo importante es que hablen el mismo idioma. 
+        p.mb-4 Desde cualquier <i>software</i>, con el código correcto, llamará al campo solicitado en la tabla o tablas requeridas, lo importante es que hablen el mismo idioma. 
         .cajon.color-primario.color-fondo.p-4.mb-4
           p.mb-0 De igual forma, una base de datos bien diseñada almacena los datos en varias tablas. Las mismas están formadas por columnas que contienen los atributos de los datos, junto con filas o registros de información. Una consulta ayuda a recuperar los datos de las distintas tablas, ordenarlos y mostrarlos según los comandos. 
         p.mb-0 Una consulta puede ser una selección, una acción o una combinación de ambas. Las consultas de selección pueden recuperar información de las fuentes de datos, y las de acción sirven para manipular los datos, por ejemplo, para añadirlos, modificarlos o eliminarlos.

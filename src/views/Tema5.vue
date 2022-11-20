@@ -50,7 +50,7 @@
                 .tarjeta.color-acento-contenido-borde.p-4(titulo="Finalmente")
                   .row
                     .col-md-12.p-4.color-fondo
-                      p Posteriormente, se deben implementar varios planes con el objeto de llegar a llevar el sistema tal y como estaba antes de la ocurrencia del desastre o evento; estos planes tienen varias fases que generan tiempo, costos y movimiento de recursos; en algunas organizaciones se tratan como proyectos, aplicando alguna de las metodología o protocolos existentes para el desarrollo y ejecución de un proyecto.
+                      p Posteriormente, se deben implementar varios planes con el objeto de llegar a llevar el sistema tal y como estaba antes de la ocurrencia del desastre o evento; estos planes tienen varias fases que generan tiempo, costos y movimiento de recursos; en algunas organizaciones se tratan como proyectos, aplicando alguna de las metodologías o protocolos existentes para el desarrollo y ejecución de un proyecto.
                 .tarjeta.color-acento-contenido-borde.p-4(titulo="Plan de <br> recuperación")
                   .row
                     .col-md-12.p-4.color-fondo

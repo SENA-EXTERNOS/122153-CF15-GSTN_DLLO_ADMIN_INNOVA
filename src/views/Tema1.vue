@@ -97,46 +97,46 @@
       .col-lg-9
         PasosA.color-acento-contenido.mb-5(tipo="n")
           .row
-            .col-md-8.mb-4.mb-md-0(style=" margin-top: 70px;")
+            .col-md-6.mb-4.mb-md-0(style=" margin-top: 105px;")
               p Análisis de los requisitos.
-            .col-md-4.col-sm-7.mt-4
-              figure(style="width: 200px; margin-top: 5px;")
+            .col-md-6.col-sm-7.mt-4
+              figure(style="width: 400px; margin-top: 5px;")
                 img(src='@/assets/curso/temas/tarjetas/placeholder1.svg', alt='imagen ilustrativa')
           .row
-            .col-md-4.col-sm-7.mb-4.mb-md-0
-              figure(style="width: 200px;")
+            .col-md-6.col-sm-7.mb-4.mb-md-0
+              figure(style="width: 400px;")
                 img(src='@/assets/curso/temas/tarjetas/placeholder2.svg', alt='imagen ilustrativa') 
-            .col-md-8(style=" margin-top: 20px;")
+            .col-md-6(style=" margin-top: 20px;")
               p(style="text-align: right") Identificación de las entidades del modelo de relación.
             
           .row 
-            .col-md-8.mb-4.mb-md-0(style=" margin-top: 20px;")
+            .col-md-6.mb-4.mb-md-0(style=" margin-top: 70px;")
               p Organización de los datos en tablas.
-            .col-md-4.col-sm-7
-              figure(style="width: 200px;")
+            .col-md-6.col-sm-7
+              figure(style="width: 400px;")
                 img(src='@/assets/curso/temas/tarjetas/placeholder3.svg', alt='imagen ilustrativa')
           .row
-            .col-md-4.col-sm-7.mb-4.mb-md-0
-              figure(style="width: 200px;")
+            .col-md-6.col-sm-7.mb-4.mb-md-0
+              figure(style="width: 400px;")
                 img(src='@/assets/curso/temas/tarjetas/placeholder4.svg', alt='imagen ilustrativa')
           
-            .col-md-8(style=" margin-top: 20px;")
+            .col-md-6(style=" margin-top: 60px;")
               p(style="text-align: right") Especificación de las claves primarias y análisis de las relaciones.
             
           .row
-            .col-md-8.mb-4.mb-md-0(style=" margin-top: 20px;")
+            .col-md-6.mb-4.mb-md-0(style=" margin-top: 70px;")
               p Normalización para estandarizar las tablas.
-            .col-md-4.col-sm-7
-              figure(style="width: 200px;")
+            .col-md-6.col-sm-7
+              figure(style="width: 400px;")
                 img(src='@/assets/curso/temas/tarjetas/placeholder5.svg', alt='imagen ilustrativa')
     
-    p.mb-4Es importante tener en cuenta que los datos tienen una particularidad intrínseca de brindar información indiferentemente del valor agregado que aportan, al ser relacionados con otra información y en el contexto en que se lleven a cabo estas relaciones. La Tabla 1 nos presenta los diferentes tipos de datos, su utilidad y tamaño.
+    p.mb-4 Es importante tener en cuenta que los datos tienen una particularidad intrínseca de brindar información indiferentemente del valor agregado que aportan, al ser relacionados con otra información y en el contexto en que se lleven a cabo estas relaciones. La Tabla 1 nos presenta los diferentes tipos de datos, su utilidad y tamaño.
 
     .mx-auto.col-md-12.mb-4
       .titulo-sexto.color-acento-contenido
         p
           b Tabla 1
-          p Ejemplo de actividades del subcomité de finanzas
+          p Tipos, utilidad y tamaño de datos
     
     .tabla-a.color-primario.mb-5 
       table.tableT
@@ -160,7 +160,7 @@
             td Datos numéricos
             td 1,2,4,8 o 16 bytes
           tr
-            td Numero grande
+            td Número grande
             td Datos numéricos
             td Número tiene un rango de -2^31 a 2^31-1 
           tr
