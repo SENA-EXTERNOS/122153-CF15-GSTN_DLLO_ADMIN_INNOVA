@@ -135,8 +135,8 @@
     .mx-auto.col-md-12.mb-4
       .titulo-sexto.color-acento-contenido
         p
-          b Tabla 1
-          p Tipos, utilidad y tamaño de datos
+          b Tabla 1 
+          | Tipos, utilidad y tamaño de datos
     
     .tabla-a.color-primario.mb-5 
       table.tableT

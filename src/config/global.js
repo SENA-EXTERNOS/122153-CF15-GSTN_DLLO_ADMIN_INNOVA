@@ -51,7 +51,6 @@ export default {
         subMenu: [
           {
             icono: 'far fa-file-alt',
-            numero: '2.1',
             titulo: 'Gráficas y tablas dinámicas',
             hash: 't_2_1',
           },
