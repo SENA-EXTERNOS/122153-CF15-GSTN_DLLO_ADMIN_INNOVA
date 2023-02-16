@@ -12,11 +12,11 @@
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img2.png', alt='imagen relacionada')
       .col-md-7      
-        p.mb-4 Para dar inicio a esta temática, es importante conocer que una base de datos almacena información de una manera estructurada y organizada, siguiendo una secuencia lógica o cierta forma de almacenar (modelo), la cual debe acercarse lo más posible al modelo real. La independencia, calidad y seguridad de los datos, deben ser algunas de las prioridades de la base de datos (BD).
+        p.mb-4 Para dar inicio a esta temática, es importante conocer que una base de datos almacena información de manera estructurada y organizada, siguiendo una secuencia lógica o cierta forma de almacenar (modelo), la cual debe acercarse lo más posible, al modelo real. La independencia, calidad y seguridad de los datos, deben ser algunas de las prioridades de la base de datos (BD).
         .cajon.color-acento-botones.color-fondo-secundario.p-4
-          p.mb-0 Por consiguiente, la gestión, administración y manipulación de los datos, utilizando herramientas digitales y humanas, operaciones y procesos, se llama Sistema de Gestión de Base de Datos (SGBD o DBMS por las siglas en inglés). Mientras la base de datos solo almacena, el SGDB gestiona y administra los datos. 
+          p.mb-0 Por consiguiente, la gestión, la administración y la manipulación de los datos, utilizando herramientas digitales y humanas, operaciones y procesos, se llama Sistema de Gestión de Base de Datos (SGBD o DBMS por las siglas en inglés). Mientras la base de datos solo almacena, el SGDB gestiona y administra los datos.  
     
-    p.mb-4 Es así como nos adentramos en el conocimiento del modelo de datos, un conjunto de reglas, definiciones y normas que reflejan la estructura de los datos, y que opera sobre los datos en un sistema informático a través de la ofimática; es el modelo relacional más utilizado y versátil, porque es ahí donde se localizan los “interesados” en los procesos, como son: proveedores, producción, clientes, entorno, en fin, todo el contexto de mercado, producción, administración, legislación y clientes.
+    p.mb-4 Es así como nos adentramos en el conocimiento del modelo de datos, un conjunto de reglas, definiciones y normas que reflejan la estructura de los datos, y que opera sobre estos en un sistema informático a través de la ofimática; es el modelo relacional más utilizado y versátil, porque es ahí donde se localizan los “interesados” en los procesos, como son: proveedores, producción, clientes, entorno, en fin, todo el contexto de mercado, producción, administración, legislación y clientes.
     
     .row.justify-content-center.mb-4
       .col-md-10
@@ -89,9 +89,9 @@
     .row.justify-content-center.mb-6
       .col-md-10.mb-4
         .cajon.color-acento-botones.color-fondo-secundario.p-4
-          p.mb-0 Y llegamos así a la construcción de la base de datos. Para una buena elaboración de una base de datos es importante conocer de dónde vienen los datos y la información, cómo están los datos (estructurados, no estructurados o semiestructurados), qué tan fiables y viables son para ser utilizados, el objetivo de su obtención y posterior utilización, cómo y a quién se le van a presentar. 
+          p.mb-0 Y llegamos así a la construcción de la base de datos. Para una buena elaboración de esta, es importante conocer de dónde vienen los datos y la información, y su diferenciación: estructurados, no estructurados o semiestructurados, qué tan fiables y viables son para ser utilizados, el objetivo de su obtención y uso, además de cómo y a quién se le van a presentar. 
        
-    p.mb-4 Después de tener estas consideraciones básicas, se sugiere aplicar los siguientes pasos:
+    p.mb-4 Después de tener estas consideraciones básicas, se sugiere tener en cuenta los siguientes elementos, para la normalización de la base de datos:
 
     .row.justify-content-around.align-items-center
       .col-lg-9
@@ -189,7 +189,7 @@
             td 2048 caracteres máximo
           tr
             td Datos adjuntos
-            td Puede adjuntar archivos como imágenes, documentos, hojas de cálculo o gráficos; cada campo de datos adjuntos puede contener una cantidad ilimitada de datos adjuntos por registro, hasta el límite de almacenamiento del tamaño de un archivo de base de datos.
+            td Puede adjuntar archivos como imágenes, documentos, hojas de cálculo o gráficos; cada campo de datos adjuntos, puede contener una cantidad ilimitada de datos anexos por registro, hasta el límite de almacenamiento del tamaño de un archivo de base de datos.
             td Hasta 2 Gb
           tr
             td Calculado
@@ -198,21 +198,14 @@
     
     .row.justify-content-center.mb-4
       .col-md-7 
-        p.mb-4 Concluimos el tema con la operación de base de datos, las cuales son todas las actividades o tareas que nos permiten modificar o alterar algún dato existente y también permiten el cálculo de un nuevo dato. En términos generales, se opera una base de datos cuando se elimina un campo, se cambia el tipo de campo, se caracteriza o cambia la caracterización, se hacen cálculos para obtener otros datos, etc. 
+        p.mb-4 Concluimos el tema con la operación de base de datos, las cuales son todas las actividades o tareas que nos permiten modificar o alterar algún dato existente y también permiten el cálculo de un nuevo dato. En términos generales, se opera una base de datos cuando se elimina o se cambia el tipo de campo, se especifica o cambia la caracterización, se hacen cálculos para obtener otros datos, etc. 
         .cajon.color-acento-botones.color-fondo-secundario.p-4.mb-4
           p.mb-0 Las bases de datos operan de acuerdo con las combinaciones que se hagan para obtener los resultados objeto del usuario. Estas combinaciones obedecen a una lógica, y de acuerdo con esa lógica, funcionan los lenguajes computacionales, desarrollando bajo ciertos parámetros, programas que realizaban y solucionan tareas básicas como sumar números enteros, llamados subprogramas, que anidados a otros que realizan tareas más elaboradas, aumentan en complejidad. 
       .col-md-5
         figure.mw-sm-350px(style="margin-top: 25px;")
           img(src='@/assets/curso/temas/texto_destacado/img4.png', alt='imagen relacionada')   
     
-    p.mb-4 Las necesidades específicas de ciertos clientes y la habilidad de los programadores, han evolucionado esas BD para llegar a las “aplicaciones”, cumpliendo cabalmente estas pequeñas tareas en segmentos específicos, supliendo necesidades, operando y programándolas con lenguajes sencillos, predicativos y efectivos para los intereses de los usuarios.
-
-
-
-          
-
-
-
+    p Las necesidades específicas de ciertos clientes y la habilidad de los programadores, han evolucionado esas BD para llegar a las “aplicaciones”, cumpliendo cabalmente estas pequeñas tareas mediante segmentos específicos, supliendo necesidades, operando y programándolas con lenguajes sencillos, predicativos y efectivos para los intereses de los usuarios.
 
 </template>
 

@@ -48,13 +48,6 @@ export default {
         titulo:
           'Gestión de la información de bases de datos - Gráficas y tablas dinámicas',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            titulo: 'Gráficas y tablas dinámicas',
-            hash: 't_2_1',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -69,18 +62,6 @@ export default {
         numero: '4',
         titulo: 'Indicadores de sistemas de información',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            titulo: 'Medidas correctivas',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            titulo: 'Acciones de mejora en sistemas de información',
-            hash: 't_4_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema5',
@@ -88,13 +69,6 @@ export default {
         numero: '5',
         titulo: 'Planes de contingencia en el manejo de la información',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            titulo: 'Calidad y divulgación de la información',
-            hash: 't_5_1',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -141,43 +115,43 @@ export default {
     {
       tema: 'Bases de datos',
       referencia:
-        'EDteam. (2020). <em>¿Qué son las BASES DE DATOS y cómo funcionan?</em> (video). YouTube. ',
+        'EDteam. (2020). <i>¿Qué son las BASES DE DATOS y cómo funcionan?</i>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=knVwokXITGI ',
     },
     {
       tema: 'Bases de datos',
       referencia:
-        'iTunes U – UAEH. (2020).<em> Características de las Bases de Datos</em> (video). YouTube. ',
+        'iTunes U – UAEH. (2020). <i>Características de las Bases de Datos</i>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=hiNzLvSO3kQ ',
     },
     {
       tema: 'Bases de datos',
       referencia:
-        'Betania, V. (2020). <em>Qué es un SGBD: Guía completa sobre los sistemas de gestión de bases de datos.</em>',
-      tipo: 'Artículo',
+        'Betania, V. (2020). <i>Qué es un SGBD: Guía completa sobre los sistemas de gestión de bases de datos</i>.',
+      tipo: 'Página web',
       link: 'https://www.hostinger.co/tutoriales/sgbd',
     },
     {
       tema: 'Tablas dinámicas',
       referencia:
-        'El Tío Tech. (2021). <em>Curso Excel – Tablas Dinámicas (básico – intermedio – avanzado)</em> (video). YouTube. ',
+        'El Tío Tech. (2021). <i>Curso Excel – Tablas Dinámicas (básico – intermedio – avanzado)</i>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=L8poMIC84bE ',
     },
     {
       tema: 'Gráficos dinámicos',
       referencia:
-        'Saber Programas. (2018).<em> Excel – Cómo hacer gráficos dinámicos y crear un Dashboard con segmentación de datos</em> (video). YouTube. ',
+        'Saber Programas. (2018). <i>Excel – Cómo hacer gráficos dinámicos y crear un Dashboard con segmentación de datos</i>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=ghyGNJKjPsQ ',
     },
     {
       tema: 'Indicadores de sistemas de información',
       referencia:
-        'MinTIC. (s.f.).<em> Guía de indicadores de gestión para la seguridad de la información. </em>',
-      tipo: 'PDF',
+        'MinTIC. (s.f.). <i>Guía de indicadores de gestión para la seguridad de la información. Guía 9</i>.',
+      tipo: 'Cartilla institucional',
       link:
         'https://www.mintic.gov.co/gestionti/615/articles-5482_G9_Indicadores_Gestion_Seguridad.pdf ',
     },
@@ -235,20 +209,20 @@ export default {
   referencias: [
     {
       referencia:
-        'Benítez, M. Á. (2016). <em>Manual de supervivencia del administrador de bases de datos.</em> IT Campus Academy.',
+        'Benítez, M. Á. (2016). <i>Manual de supervivencia del administrador de bases de datos</i>. IT Campus Academy.',
     },
     {
       referencia:
-        'Burrueco, D. (2016). <em>Tablas dinámicas con Excel 2016.</em> Ra-Ma S.A. Editorial y Publicaciones.',
+        'Burrueco, D. (2016). <i>Tablas dinámicas con Excel 2016</i>. Ra-Ma S.A. Editorial y Publicaciones.',
     },
     {
       referencia:
-        'Capacho, J. R. y Nieto, W. (2017).<em> Diseño de base de datos.</em> Editorial Universidad del Norte. ',
-      link: 'https://docplayer.es/227418128-Diseno-de-base-de-datos.html ',
+        'Capacho, J. R. y Nieto, W. (2017). <i>Diseño de base de datos. Editorial Universidad del Norte</i>.',
+      link: 'https://docplayer.es/227418128-Diseno-de-base-de-datos.html',
     },
     {
       referencia:
-        'Postigo, A. (2022).<em> Gestión de Bases de Datos.</em> Ediciones Paraninfo, SA.',
+        'Postigo, A. (2022). <i>Gestión de Bases de Datos</i>. Ediciones Paraninfo, SA.',
     },
   ],
   creditos: {

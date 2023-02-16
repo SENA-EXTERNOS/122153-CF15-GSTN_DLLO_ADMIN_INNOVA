@@ -14,7 +14,7 @@
       .col-md-7      
         p.mb-0 Teniendo claros los conceptos de datos y bases de datos, llegamos al Sistema de Gestión de Bases de Datos (SGBD), el cual se refiere a un <i>software</i> que administra y facilita a los usuarios para disponer, manipular y trabajar con la información de forma segura y con estándares de calidad. Para que un SGBD pueda operar adecuadamente, es necesario que exista una relación o conexión entre los datos (estructura), para crear relaciones funcionales y que faciliten la gestión de estas bases de datos, factor importante para la eficacia en su funcionamiento. El SGBD además, debe brindar herramientas funcionales y afines al objeto de la organización y utilidad de la información, para brindar asimismo una estructura de datos adecuada.
     
-    p.mb-4 La integralidad mínima del SGBD está conformada de esta manera:
+    p.mb-4 La integralidad mínima del SGBD está conformada de la siguiente manera:
 
     SlyderF.mb-5(columnas="col-lg-12 col-xl-4")
       .tarjeta.color-acento-contenido.p-4(style='height:400px')
@@ -86,7 +86,7 @@
         
           .row(titulo="Integración")
             .col-md-12.mb-4.mb-md-0
-              p La integración de los sistemas de gestión y su articulación con los todos los procesos internos y externos de la organización, hacen parte del valor agregado que puede dar un SGBD, permitiendo a la arquitectura del sistema, cumplir con los requisitos legales y regulaciones propias de la empresa, bajando costos de mantenimiento y operación. 
+              p La integración de los sistemas de gestión y su articulación con todos los procesos internos y externos de la organización, hacen parte del valor agregado que puede dar un SGBD, permitiendo a la arquitectura del sistema, cumplir con los requisitos legales y regulaciones propias de la empresa, bajando costos de mantenimiento y operación. 
 
           .row(titulo="Acceso abierto")
             .col-md-12.mb-4.mb-md-0
@@ -113,9 +113,9 @@
 
     .mx-auto.col-md-8.mb-4
       .titulo-sexto.color-acento-contenido
-        p
-          b Figura 1
-          |  Ejemplo de búsqueda en un navegador
+        h5 Figura 1
+        br
+        span.fst-italic Ejemplo de búsqueda en un navegador
 
       figure.mb-5
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura1.svg', alt='diagrama')  
@@ -177,15 +177,15 @@
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar18.svg' alt='dibujo relacionado')
         p.text-center Añade datos o registros nuevos a la base de datos.
 
-    p.mb-4 Existen otro tipo de consultas para usuarios no tan técnicos o profesionales, utilizando métodos gráficos y predictivos, que ayudan al usuario a realizar consultas exitosas en las bases de datos.
+    p.mb-4 Existe otro tipo de consultas para usuarios no tan técnicos o profesionales, utilizando métodos gráficos y predictivos, que ayudan, al usuario, a realizar consultas exitosas en las bases de datos.
 
     h3
-      i#t_2_1.fas.fa-square.me-3.cuadrado.mb-4.mt-4 
+      .fas.fa-square.me-3.cuadrado.mb-4.mt-4 
       |  Gráficas y tablas dinámicas
 
     .row.justify-content-center.mb-4
       .col-md-7      
-        p.mb-0 Una tabla dinámica resume, realiza análisis, explora y genera informes relacionales concisos y rápidos. Si adicionalmente se utilizan los gráficos, también dinámicos, se agrega versatilidad a las visualizaciones, permitiendo ver comparaciones, tendencias y patrones que aporten los informes. Las decisiones tomadas con estas ayudas, son más seguras y útiles a los objetivos misionales. Para alimentar las tablas y gráficos dinámicos, se pueden importar datos de otros tipos de bases de datos, externos a la aplicación que se está utilizando.
+        p.mb-0 Una tabla dinámica resume, analiza, explora y genera informes relacionales concisos y rápidos. Si adicionalmente se utilizan los gráficos, también dinámicos, se agrega versatilidad a las visualizaciones, permitiendo obtener comparaciones, tendencias y patrones que aporten los informes. Las decisiones tomadas con estas ayudas, son más seguras y útiles a los objetivos misionales. Para alimentar las tablas y gráficos dinámicos, se pueden importar datos de otros tipos de bases de datos, externos a la aplicación que se está utilizando.
     
       .col-md-5
         figure.mw-sm-350px
@@ -230,7 +230,7 @@
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar24.svg' alt='dibujo relacionado')
         p.text-center Presentar informes en línea o impresos concisos, atractivos y anotados.
     
-    p.mb-4 Generalmente las aplicaciones que tienen como herramienta la creación y posterior análisis de datos y gráficos dinámicos, poseen herramientas de aprendizaje fáciles de manipular y entender.  
+    p.mb-4 Generalmente, las aplicaciones que tienen como herramienta la creación y posterior análisis de datos y gráficos dinámicos, poseen herramientas de aprendizaje, fáciles de manipular y entender.   
 
     .row.justify-content-center.mb-4
       .col-md-10
@@ -246,7 +246,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
           .row(titulo="Orientación de filas y columnas")
             .col-md-12.mb-4.mb-md-0
-              p A diferencia de un gráfico estándar, no se puede cambiar la orientación de las filas y columnas de un gráfico dinámico, mediante el cuadro de diálogo Seleccionar origen de datos. En su lugar, puede dinamizar las etiquetas de fila y columna, asociadas a una tabla dinámica para lograr el mismo efecto.
+              p A diferencia de un gráfico estándar, no se puede cambiar la orientación de las filas y columnas de un gráfico dinámico, mediante el cuadro de diálogo <i>Seleccionar</i> origen de datos. En su lugar, puede dinamizar las etiquetas de fila y columna, asociadas a una tabla dinámica para lograr el mismo efecto.
         
           .row(titulo="Tipos de gráficos")
             .col-md-12.mb-4.mb-md-0
@@ -254,7 +254,7 @@
 
           .row(titulo="Datos de origen")
             .col-md-12.mb-4.mb-md-0
-              p Los gráficos estándar están vinculados directamente a las celdas de las hojas de cálculo, mientras que los gráficos dinámicos se basan en el origen de datos de la tabla dinámica asociada. A diferencia de un gráfico estándar, no se puede cambiar el rango de datos de un gráfico en el cuadro de diálogo Seleccionar origen de datos, de un gráfico dinámico.
+              p Los gráficos estándar están vinculados directamente con las celdas de las hojas de cálculo, mientras que los gráficos dinámicos se basan en el origen de datos de la tabla dinámica asociada. A diferencia de un gráfico estándar, no se puede cambiar el rango de datos de un gráfico en el cuadro de diálogo <i>Seleccionar</i> origen de datos, de un gráfico dinámico.
 
           .row(titulo="Formato")
             .col-md-12.mb-4.mb-md-0
@@ -262,7 +262,7 @@
       .col-md-5
         img(src='@/assets/curso/temas/texto_destacado/img9.png', alt='imagen relacionada')  
 
-    p.mb-4 Actualmente, las tablas dinámicas se presentan como una gran herramienta de trabajo, por su rapidez en el acceso de la información, por su flexibilidad al permitir importar datos de diferentes tipos y arreglos, por su estructura, facilitando un análisis veraz.
+    p.mb-4 Actualmente, las tablas dinámicas se presentan como una gran herramienta de trabajo, por su rapidez en el acceso de la información, por su flexibilidad al permitir importar datos de diferentes tipos y arreglos, y por su estructura, facilitando un análisis veraz.
     
     .row.justify-content-center.mb-4
       .col-md-10
@@ -273,9 +273,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.text-small 
-                   p Para ampliar la información, lo invitamos a leer el PDF &nbsp
-                    b Características y fuentes de datos para generar tablas dinámicas.  
+                  h5 Características y fuentes de datos para generar tablas dinámicas.
+                  p.mb-0 Para ampliar la información, lo invitamos a leer el PDF <i>Características y fuentes de datos para generar tablas dinámicas</i>.  
          
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Características y fuentes de datos para generar tablas dinámicas.pdf')" target="_blank")

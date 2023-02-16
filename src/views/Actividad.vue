@@ -11,8 +11,8 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Gestión de bases de datos
-        p.mb-4 Apreciado aprendiz, a continuación encontrará una serie de preguntas que deberá resolver, con el objetivo de evaluar la aprehensión de los conocimientos expuestos en este componente formativo.
-        p.mb-4 De acuerdo con la definición planteada en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha.
+        p.mb-4 Apreciado aprendiz, esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo relacionado con la gestión de bases de datos, teniendo en cuenta los instrumentos e indicadores, así como respuestas contingentes, para su buen uso y manejo.
+        p.mb-4 A continuación encontrará dos columnas, de acuerdo con la definición planteada en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

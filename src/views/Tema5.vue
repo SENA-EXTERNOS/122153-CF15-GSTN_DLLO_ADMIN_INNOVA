@@ -12,18 +12,18 @@
             figure.mw-sm-350px
               img(src='@/assets/curso/temas/texto_destacado/img17.png', alt='imagen relacionada')
           .col-md-7      
-            p.mb-4 Cuando se interrumpe abruptamente el sistema de información o el colapso de la mayor parte de los recursos que hacen sostenible el sistema informático, se obtiene un desastre de tipo informático. 
+            p.mb-4 Cuando se interrumpe abruptamente el sistema de información o colapsan la mayor parte de los recursos que hacen sostenible el sistema informático, se obtiene un desastre de tipo informático. 
             .cajon.color-acento-botones.color-fondo-secundario.p-4
-              p.mb-0 Se considera una contingencia a la posibilidad que algo suceda o no, muy parecido al término probabilidad, pero con la diferencia que la contingencia es un concepto más pragmático en el sentido que está asociado con la logística y los procesos que se deben desplegar para responder a ella o no; a veces, la mejor contingencia es precisamente no responder.
+              p.mb-0 Se considera una contingencia a la posibilidad que algo suceda o no, muy parecido al término probabilidad, pero con la diferencia que la contingencia es un concepto más pragmático en el sentido que está asociado con la logística y los procesos que se deben desplegar, para responder, o no hacerlo ante el suceso; a veces, la mejor contingencia es precisamente no responder.
         
         p.mb-4 Se tiene un plan cuando se documentan todos los procesos y procedimientos a seguir de manera documentada y secuencial, previendo que, en algún momento, sucedieran dados unos cálculos de probabilidad asociados a los posibles eventos. El plan puede ser tan minucioso que discrimina todos los recursos, el momento, quién o quiénes intervienen en caso de eventos de desastre y se practican simulacros con el fin de asociar todas las acciones y tareas documentadas con las acciones en la realidad.
 
         .row.justify-content-center.mb-4
           .col-md-10
             .cajon.color-primario.color-fondo.p-4
-              p.mb-0 En resumen, plan de contingencia se refiere al conjunto de procedimientos y estrategias definidos para asegurar la reanudación oportuna y ordenada de los procesos, generando un impacto mínimo a los procesos neurálgicos de la empresa.
+              p.mb-0 En resumen, el plan de contingencia se refiere al conjunto de procedimientos y estrategias definidos para asegurar la reanudación oportuna y ordenada de los procesos, generando un impacto mínimo a los procesos neurálgicos de la empresa.
         
-        p.mb-4 Todo sistema de gestión tiene uno o varios planes de contingencia, por ubicaciones geográficas, por algún tipo de proceso o por algún tipo actividad económica que requiere de algún plan especial a ser atendido; para las organizaciones actuales no es desconocido, ni genera problemas en su activación, por la obligatoriedad de implementación en algún proceso específico.  
+        p.mb-4 Todo sistema de gestión tiene uno o varios planes de contingencia, bien sea por la ubicación geográfica, por algún tipo de proceso o actividad económica que requiere atención; para las organizaciones actuales no es desconocido, ni genera problemas en su activación, por la obligatoriedad de implementación requerido en cualquier proceso específico.    
 
         p.mb-4 El plan de contingencia informática tiene diferentes momentos:
 
@@ -50,14 +50,14 @@
                 .tarjeta.color-acento-contenido-borde.p-4(titulo="Finalmente")
                   .row
                     .col-md-12.p-4.color-fondo
-                      p Posteriormente, se deben implementar varios planes con el objeto de llegar a llevar el sistema tal y como estaba antes de la ocurrencia del desastre o evento; estos planes tienen varias fases que generan tiempo, costos y movimiento de recursos; en algunas organizaciones se tratan como proyectos, aplicando alguna de las metodologías o protocolos existentes para el desarrollo y ejecución de un proyecto.
+                      p Posteriormente, se deben implementar varios planes con el objeto de llevar el sistema tal y como estaba antes de la ocurrencia del desastre o evento; estos planes tienen varias fases que generan tiempo, costos y movimiento de recursos; en algunas organizaciones se tratan como proyectos, aplicando algunas de las metodología o protocolos existentes para el desarrollo y ejecución de un proyecto.
                 .tarjeta.color-acento-contenido-borde.p-4(titulo="Plan de <br> recuperación")
                   .row
                     .col-md-12.p-4.color-fondo
                       p Se refiere al conjunto de acciones que tienen por objetivo restablecer oportunamente la capacidad de las operaciones, procesos y recursos del servicio que fue afectado por un evento de contingencia.
 
         h3
-          i#t_5_1.fas.fa-square.me-3.cuadrado.mb-4
+          .fas.fa-square.me-3.cuadrado.mb-4
           |  Calidad y divulgación de la información
         
         p.mb-5 Gran parte de la información debe ser divulgada con el objeto de promocionar, o simplemente informar, sobre algo y este proceso debe contener unas etapas:
