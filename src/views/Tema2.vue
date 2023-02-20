@@ -254,11 +254,11 @@
 
           .row(titulo="Datos de origen")
             .col-md-12.mb-4.mb-md-0
-              p Los gráficos estándar están vinculados directamente con las celdas de las hojas de cálculo, mientras que los gráficos dinámicos se basan en el origen de datos de la tabla dinámica asociada. A diferencia de un gráfico estándar, no se puede cambiar el rango de datos de un gráfico en el cuadro de diálogo <i>Seleccionar</i> origen de datos, de un gráfico dinámico.
+              p Los gráficos estándar están vinculados directamente con las celdas de las hojas de cálculo, mientras que los gráficos dinámicos se basan en el origen de datos de la tabla dinámica asociada. A diferencia de un gráfico estándar, no se puede cambiar el rango de datos de un gráfico en el cuadro de diálogo <b>Seleccionar</b> origen de datos, de un gráfico dinámico.
 
           .row(titulo="Formato")
             .col-md-12.mb-4.mb-md-0
-              p La mayor parte del formato, incluso los elementos del gráfico que agrega el diseño y el estilo, se conserva cuando actualiza un gráfico dinámico. Sin embargo, no se conservan las líneas de tendencia, las etiquetas de datos, las barras de error y otros cambios realizados en los conjuntos de datos. Los gráficos estándar no pierden este formato una vez que se aplica.
+              p La mayor parte del formato, incluso los elementos del gráfico que agrega el diseño y el estilo, se conserva cuando actualiza un gráfico dinámico. Sin embargo, no se conservan las líneas de tendencia, las etiquetas de datos, las barras de error y otros cambios realizados en los conjuntos de datos. Los gráficos estándar no pierden este formato una vez que se aplican.
       .col-md-5
         img(src='@/assets/curso/temas/texto_destacado/img9.png', alt='imagen relacionada')  
 

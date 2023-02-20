@@ -40,7 +40,7 @@
                 p La precisión de un instrumento no debe ser limitante para que así sea flexible y adaptable a diferentes circunstancias de evaluación, sin perder sus otras características.
               
               .tarjeta.color-puntoC.p-4(x="94%" y="44%" numero="+" style='border-radius: 10px')
-                p Cuando se habla de práctico, se refiere precisamente a esto, que sea fácil de administrar, de caracterizar y sobre todo, de medir.
+                p Cuando se habla de práctico, se refiere precisamente a esto, que sea fácil de administrar, de caracterizar y sobre todo de medir.
 
     p.mb-4 Los tipos y usos de los instrumentos de evaluación de bases de datos, pasan por el análisis de los SGBD, los <i>software</i> que administran las bases de datos y el fin u objeto que buscan.
 
