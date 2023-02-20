@@ -49,7 +49,7 @@
     .row.justify-content-center.mb-4
       .col-md-7
         LineaTiempoD.color-secundario
-          .row(numero="1" titulo="Jerárquico")
+          .row(numero="1" titulo="Jerárquico") 
             .col-md-12.mb-4.mb-md-0
               p El almacenamiento de datos se da de manera lineal, por nodos; un nodo principal tiene relacionados subordinadamente uno o varios nodos y cada subnodo, solo tiene un nodo “padre” o superior.
           
