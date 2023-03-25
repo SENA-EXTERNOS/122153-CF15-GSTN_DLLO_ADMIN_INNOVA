@@ -277,15 +277,9 @@
                   p.mb-0 Para ampliar la información, lo invitamos a leer el PDF <i>Características y fuentes de datos para generar tablas dinámicas</i>.  
          
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Características y fuentes de datos para generar tablas dinámicas.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Características_y_fuentes_de_datos_para_generar_tablas_dinámicas.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
-
-
-
-
-
-
 
 </template>
 
