@@ -54,7 +54,7 @@
       .col-md-3.col-lg-4(style="margin-top: 10px; ")
         img(src='@/assets/curso/temas/texto_destacado/img3.png', alt='imagen relacionada') 
       .col-md-8.col-lg-8
-        TabsA.color-acento-contenido.mb-4
+        TabsC.color-acento-contenido.mb-4
           .tarjeta.color-acento-contenido-borde.p-4(titulo="Recuperación")
             .row
               .col-md-12.p-4.color-fondo
@@ -75,7 +75,7 @@
               .col-md-12.p-4.color-fondo
                 p Con la alta probabilidad de consultas simultáneas, que aumentan el riesgo de pérdida, mala manipulación o integridad de los datos e información, el SGBD garantiza el eficaz funcionamiento del sistema o aplicación.
           
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Volumen de<br>almacenamiento")
+          .tarjeta.color-acento-contenido-borde.p-4(titulo="Volumen de almacenamiento")
             .row
               .col-md-12.p-4.color-fondo
                 p Organizar y recopilar miles de datos de una misma estructura.

@@ -130,7 +130,7 @@
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center.my-lg-4
             .col-md-6.mb-4.mb-md-0
-              h3.mb-4(style="margin-top: -70px;") Sentido común
+              h3.mb-4 Sentido común
               p El cuidado debe ser el primer ítem en cuanto a la seguridad; cuando se descarguen aplicaciones, verificar que sean seguros los sitios de su procedencia, igualmente verificar en qué páginas se está consultando o navegando en busca de información, correos de dudosa procedencia y archivos adjuntos a estos. 
 
             .col-md-5
@@ -139,7 +139,7 @@
           
           .row.justify-content-center.align-items-center.my-lg-4            
             .col-md-6.mb-4.mb-md-0
-              h3.mb-4(style="margin-top: -70px;") Utilizar soluciones de seguridad
+              h3.mb-4 Utilizar soluciones de seguridad
               p Intentar utilizar soluciones de seguridad de proveedores profesionales, que garanticen buenos resultados en temas de seguridad y protección de la información. Algunos sistemas operativos tienen aplicaciones de seguridad, totalmente gratuitas y confiables.
 
             .col-md-5
@@ -148,7 +148,7 @@
           
           .row.justify-content-center.align-items-center.my-lg-4
             .col-md-6.mb-4.mb-md-0
-              h3.mb-4(style="margin-top: -70px;") Actualizar el sistema operativo y aplicaciones
+              h3.mb-4 Actualizar el sistema operativo y aplicaciones
               p Todos los sistemas operativos cuentan con herramientas para mantener actualizados sus equipos, y son de uso obligado, porque incluyen actualizaciones de seguridad contra amenazas conocidas. Tan importante o más que lo anterior, es la actualización de aplicaciones instaladas a las últimas versiones, debido a que suelen incluir parches de seguridad. Cuando las versiones son más antiguas, tienen mayor riesgo de ser atacadas por ciberdelincuentes que encuentran vulnerabilidades en el programa.
 
             .col-md-5
@@ -157,7 +157,7 @@
           
           .row.justify-content-center.align-items-center.my-lg-4            
             .col-md-6.mb-4.mb-md-0
-              h3.mb-4(style="margin-top: -70px;") Proteger los navegadores
+              h3.mb-4 Proteger los navegadores
               p Utilizar las características de seguridad que tienen los navegadores web, es una buena práctica, porque se actualizan constantemente y están a la vanguardia en estos casos.
               
               p Los avisos que tienen los navegadores, alertando sobre sitios no seguros, advierten al usuario para que tome la decisión de consultar o no, en esa página.
@@ -168,7 +168,7 @@
 
           .row.justify-content-center.align-items-center.my-lg-4
             .col-md-6.mb-4.mb-md-0
-              h3.mb-4(style="margin-top: -70px;") Cuidar las contraseñas
+              h3.mb-4 Cuidar las contraseñas
               p El uso de contraseñas combinadas y largas, es una buena práctica para blindar contra ataques informáticos al sistema de información organizacional; de igual forma, el uso de contraseñas biométricas, es también una buena práctica. Se sugiere estar cambiando las contraseñas con frecuencia.
 
             .col-md-5
@@ -177,7 +177,7 @@
           
           .row.justify-content-center.align-items-center.my-lg-4            
             .col-md-6.mb-4.mb-md-0
-              h3.mb-4(style="margin-top: -70px;") Usar autenticación de dos factores
+              h3.mb-4 Usar autenticación de dos factores
               p La autenticación de dos factores proporciona un nivel adicional de seguridad en las cuentas, diferente a las típicas contraseñas, porque no basta con vulnerar el nombre de usuario y contraseña. El servicio está disponible en la mayoría de servicios importantes de Internet y conviene utilizarlo siempre que podamos. Generalmente, se utiliza un código de verificación servido, mediante una aplicación móvil o SMS, para aplicar además del nombre de usuario y la contraseña al iniciar sesión.
 
             .col-md-5
@@ -186,7 +186,7 @@
           
           .row.justify-content-center.align-items-center.my-lg-4
             .col-md-6.mb-4.mb-md-0
-              h3.mb-4(style="margin-top: -70px;") Realizar copias de seguridad
+              h3.mb-4 Realizar copias de seguridad
               p No se sabe en qué momento se pueda presentar un fallo en el sistema informático, o en qué momento quede expuesto a un ataque y se pierda o dañe la información. Los sistemas siempre están en riesgo, la seguridad total no existe, se recomienda realizar copias de soporte que se puedan guardar en dispositivos de almacenamiento externos, o en sitios seguros, de entidades que presten este servicio en la nube.
 
             .col-md-5
@@ -195,7 +195,7 @@
           
           .row.justify-content-center.align-items-center.my-lg-4            
             .col-md-6.mb-4.mb-md-0
-              h3.mb-4(style="margin-top: -40px;") Precaución con las redes Wi-Fi públicas
+              h3.mb-4 Precaución con las redes Wi-Fi públicas
               p Los puntos inalámbricos y gratuitos de acceso a Internet, se han extendido por múltiples zonas en poblaciones y de restauración, en aeropuertos, estaciones de tren o metro, hoteles y en todo tipo de negocios. Demostradas altamente inseguras, se pueden utilizar para una navegación intrascendente, guardando las debidas precauciones, pero no para accesos que requieran mostrar sus datos y contraseñas. Un usuario de negocio móvil, no debería confiar en ellos su actividad profesional, optando por redes móviles dedicadas, de banda ancha, que ofrecen mayor seguridad.
 
             .col-md-5
@@ -204,7 +204,7 @@
           
           .row.justify-content-center.align-items-center.my-lg-4
             .col-md-6.mb-4.mb-md-0
-              h3.mb-4(style="margin-top: -70px;") Activar la restauración del sistema
+              h3.mb-4 Activar la restauración del sistema
               p La restauración de los sistemas operativos es una herramienta que puede “salvarnos la vida” ante un error del <i>software</i>, instalación de <i>drivers</i> o de alguna aplicación que no funciona correctamente y también ante la entrada de un virus en nuestro equipo. Las herramientas de recuperación del sistema, permiten revertir los cambios realizados en los archivos del sistema operativo, configuración, ajustes, controladores, claves de registro o programas instalados y que, en ocasiones, desestabilizan el sistema operativo.
 
             .col-md-5
@@ -213,7 +213,7 @@
           
           .row.justify-content-center.align-items-center.my-lg-4
             .col-md-6.mb-4.mb-md-0
-              h3.mb-4(style="margin-top: -70px;") Valorar el cifrado de datos
+              h3.mb-4 Valorar el cifrado de datos
               p Cifrar o “codificar” los datos de su equipo para mantenerlos protegidos, haciendo frente a amenazas como el robo de datos o la exposición en caso de pérdida, el robo o la retirada inapropiada de equipos, es una medida interesante, especialmente en el segmento profesional y corporativo. Los proveedores de <i>software</i> ofrecen múltiples soluciones para hacerlo y algunos sistemas operativos cuentan con herramientas nativas. 
 
             .col-md-5

@@ -17,56 +17,56 @@
     p.mb-4 La integralidad mínima del SGBD está conformada de la siguiente manera:
 
     SlyderF.mb-5(columnas="col-lg-12 col-xl-4")
-      .tarjeta.color-acento-contenido.p-4(style='height:400px')
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="flip-up" src='@/assets/curso/temas/tarjetas/avatar4.svg' alt='dibujo relacionado')
         h4.text-center Motor de almacenamiento
         p.text-center Es el elemento central de un SGBD, interactúa con el sistema de archivos a nivel del sistema operativo.
 
-      .tarjeta.color-acento-contenido.p-4(style='height:400px')
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-in-up" src='@/assets/curso/temas/tarjetas/avatar5.svg' alt='dibujo relacionado')    
         h4.text-center Lenguaje de consulta
         p.text-center El lenguaje de consulta estructurado (SQL) y el lenguaje de consulta MongoDB (MQL), ambos utilizados para interactuar con las bases de datos.
 
-      .tarjeta.color-acento-contenido.p-4(style='height:400px')
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar6.svg' alt='dibujo relacionado')
         h4.text-center Procesador de consultas
         p.text-center Interpreta las consultas del usuario y hace que los comandos sean comprensibles para la base de datos.
 
-      .tarjeta.color-acento-contenido.p-4(style='height:400px')
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar11.svg' alt='dibujo relacionado')
         h4.text-center Optimizador de consultas
         p.text-center Proporciona ideas para mejorar el rendimiento de la base de datos y las consultas.
 
-      .tarjeta.color-acento-contenido.p-4(style='height:400px')
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar7.svg' alt='dibujo relacionado')
         h4.text-center Catálogo de metadatos
         p.text-center Actúa como repositorio de los objetos de la base de datos. Cada vez que se crea un objeto, se registra aquí. El catálogo se utiliza para verificar las solicitudes de los usuarios y proporcionar detalles sobre la estructura de la base de datos.
 
-      .tarjeta.color-acento-contenido.p-4(style='height:400px')
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar8.svg' alt='dibujo relacionado')
         h4.text-center Administrador de registros
         p.text-center Este componente registra la actividad de los usuarios, los inicios de sesión, las copias de seguridad y otras acciones realizadas con el SGBD.
 
-      .tarjeta.color-acento-contenido.p-4(style='height:400px')
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar9.svg' alt='dibujo relacionado')
         h4.text-center Herramientas de informes y monitorización
         p.text-center Estas utilidades generan informes y supervisan el uso de los recursos del SGBD.
 
-      .tarjeta.color-acento-contenido.p-4(style='height:400px')
+      .tarjeta.color-acento-contenido.p-4.h-100
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar10.svg' alt='dibujo relacionado')
