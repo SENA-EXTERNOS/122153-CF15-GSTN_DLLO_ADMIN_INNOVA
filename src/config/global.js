@@ -115,14 +115,14 @@ export default {
     {
       tema: 'Bases de datos',
       referencia:
-        'EDteam. (2020). <i>¿Qué son las BASES DE DATOS y cómo funcionan?</i>.',
+        'EDteam. (2020). <i>¿Qué son las BASES DE DATOS y cómo funcionan?</i>. (video). YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=knVwokXITGI ',
     },
     {
       tema: 'Bases de datos',
       referencia:
-        'iTunes U – UAEH. (2020). <i>Características de las Bases de Datos</i>.',
+        'iTunes U – UAEH. (2020). <i>Características de las Bases de Datos</i>. (video). YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=hiNzLvSO3kQ ',
     },
@@ -136,14 +136,14 @@ export default {
     {
       tema: 'Tablas dinámicas',
       referencia:
-        'El Tío Tech. (2021). <i>Curso Excel – Tablas Dinámicas (básico – intermedio – avanzado)</i>.',
+        'El Tío Tech. (2021). <i>Curso Excel – Tablas Dinámicas (básico – intermedio – avanzado)</i>. (video). YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=L8poMIC84bE ',
     },
     {
       tema: 'Gráficos dinámicos',
       referencia:
-        'Saber Programas. (2018). <i>Excel – Cómo hacer gráficos dinámicos y crear un Dashboard con segmentación de datos</i>.',
+        'Saber Programas. (2018). <i>Excel – Cómo hacer gráficos dinámicos y crear un Dashboard con segmentación de datos</i>. (video). YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=ghyGNJKjPsQ ',
     },
@@ -198,7 +198,7 @@ export default {
     {
       termino: 'Texto largo',
       significado:
-        'grandes cantidades de datos (alfanuméricos, oraciones, párrafos) 1 Gb (muestra los primeros 64.000 caracteres).',
+        'grandes cantidades de datos (alfanuméricos, oraciones, párrafos) 1 GB (muestra los primeros 64.000 caracteres).',
     },
     {
       termino: 'Sistema de Gestión de Base de Datos',

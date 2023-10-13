@@ -25,23 +25,23 @@
     
     p.mb-4 El SGBD pretende, mediante algunas técnicas, obtener:
     
-    SlyderF.mb-5.slyder-g(columnas="col-lg-12 col-xl-4")
-      .tarjeta.p-4(style='height:320px; background-color: #CFE5B6')
-        .row.justify-content-center.mb-6
-          .col-7.mb-3
+    SlyderF.mb-5.slyder-g(columnas="col-md-6 col-xl-4")
+      .tarjeta.h-100.p-4(style='background-color: #CFE5B6')
+        .row.justify-content-center
+          .col-md-7.col-5.mb-3
             img(data-aos="flip-up" src='@/assets/curso/temas/tarjetas/avatar1.svg' alt='dibujo relacionado')      
         h4.text-center Independencia de los datos
         p.text-center Los cambios en la estructura de la BD no modifican las aplicaciones.
 
-      .tarjeta.p-4(style='height:320px; background-color: #CFE5B6')
-        .row.justify-content-center.mb-6
-          .col-7.mb-3
+      .tarjeta.h-100.p-4(style='background-color: #CFE5B6')
+        .row.justify-content-center
+          .col-md-7.col-5.mb-3
             img(data-aos="zoom-in-up" src='@/assets/curso/temas/tarjetas/avatar2.svg' alt='dibujo relacionado')    
         h4.text-center Integridad de los datos
         p.text-center Los datos han de ser siempre correctos. Se establecen una serie de restricciones (reglas de validación) sobre los datos. 
-      .tarjeta.p-4(style='height:320px; background-color: #CFE5B6')
-        .row.justify-content-center.mb-6
-          .col-7.mb-3
+      .tarjeta.h-100.p-4(style='background-color: #CFE5B6')
+        .row.justify-content-center
+          .col-md-7.col-5.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar3.svg' alt='dibujo relacionado')
         h4.text-center Seguridad de los datos
         p.text-center Control de acceso a los datos, para evitar manipulaciones no deseadas.
@@ -154,7 +154,7 @@
           tr
             td Texto largo
             td Grandes cantidades de datos <br> (alfanuméricos, oraciones, párrafos).
-            td 1 Gb (muestra los primeros 64.000 caracteres)
+            td 1 GB (muestra los primeros 64.000 caracteres)
           tr
             td Número
             td Datos numéricos
@@ -182,7 +182,7 @@
           tr
             td Objeto Ole
             td Gráficos u otros objetos de ActiveX
-            td Hasta 2 Gb
+            td Hasta 2 GB
           tr
             td Hipervínculo
             td Redireccionamiento a un documento o archivo en la web o equipo local.
@@ -190,7 +190,7 @@
           tr
             td Datos adjuntos
             td Puede adjuntar archivos como imágenes, documentos, hojas de cálculo o gráficos; cada campo de datos adjuntos, puede contener una cantidad ilimitada de datos anexos por registro, hasta el límite de almacenamiento del tamaño de un archivo de base de datos.
-            td Hasta 2 Gb
+            td Hasta 2 GB
           tr
             td Calculado
             td Puede crear una expresión que use datos de uno o varios campos. Puede designar tipos de datos de resultados diferentes de la expresión.

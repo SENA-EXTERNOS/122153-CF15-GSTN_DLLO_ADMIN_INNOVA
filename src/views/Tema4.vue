@@ -19,45 +19,45 @@
       p.mb-4 En los sistemas de información, los indicadores sirven, entre otras cosas, para:
 
       .row.mb-4.justify-content-center
-        .col-sm-6.col-lg-2.mb-4.mb-lg-0(style=" width: 213px;")
-          .tarjeta.p-4(style='min-height:220px; height:320px; background-color: #CFE5B6')
+        .col-lg.col-sm-6.mb-4
+          .tarjeta.h-100.p-4(style='background-color: #CFE5B6')
             .row.justify-content-center.mb-3
-              .col-7
+              .col-xl-7.col-lg-8.col-6
                 figure
                   img(src='@/assets/curso/temas/tarjetas/avatar25.svg', alt='Texto que describa la imagen')
 
             p.text-center Evaluar la efectividad de la implementación de los controles de seguridad.
 
-        .col-sm-6.col-lg-2.mb-4.mb-lg-0(style=" width: 213px;")
-          .tarjeta.p-4(style='min-height:220px; height:320px; background-color: #CFE5B6')
+        .col-lg.col-sm-6.mb-4
+          .tarjeta.h-100.p-4(style='background-color: #CFE5B6')
             .row.justify-content-center.mb-3
-              .col-7
+              .col-xl-7.col-lg-8.col-6
                 figure
                   img(src='@/assets/curso/temas/tarjetas/avatar26.svg', alt='Texto que describa la imagen')
 
             p.text-center Evaluar la eficiencia del Modelo de Seguridad y Privacidad de la Información (MSPI), al interior de la entidad. 
 
-        .col-sm-6.col-lg-2.mb-4.mb-sm-0(style=" width: 213px;")
-          .tarjeta.p-4(style='min-height:220px; height:320px; background-color: #CFE5B6')
+        .col-lg.col-sm-6.mb-4
+          .tarjeta.h-100.p-4(style='background-color: #CFE5B6')
             .row.justify-content-center.mb-3
-              .col-7
+              .col-xl-7.col-lg-8.col-6
                 figure
                   img(src='@/assets/curso/temas/tarjetas/avatar27.svg', alt='Texto que describa la imagen')
             p.text-center Proveer estados de seguridad que sirvan de guía para las mejoras en seguridad de la información y nuevas entradas a auditar. 
 
-        .col-sm-6.col-lg-2.mb-4.mb-sm-0(style=" width: 213px;")
-          .tarjeta.p-4(style='min-height:220px; height:320px; background-color: #CFE5B6')
+        .col-lg.col-sm-6.mb-4
+          .tarjeta.h-100.p-4(style='background-color: #CFE5B6')
             .row.justify-content-center.mb-3
-              .col-7
+              .col-xl-7.col-lg-8.col-6
                 figure
                   img(src='@/assets/curso/temas/tarjetas/avatar28.svg', alt='Texto que describa la imagen')
 
             p.text-center Comunicar valores de seguridad al interior de la entidad. 
 
-        .col-sm-6.col-lg-2(style="width: 213px;")
-          .tarjeta.p-4(style='min-height:220px; height:320px; background-color: #CFE5B6')
+        .col-lg.col-sm-6.mb-4
+          .tarjeta.h-100.p-4(style='background-color: #CFE5B6')
             .row.justify-content-center.mb-3
-              .col-7
+              .col-xl-7.col-lg-8.col-6
                 figure
                   img(src='@/assets/curso/temas/tarjetas/avatar29.svg', alt='Texto que describa la imagen')
             p.text-center Servir como insumos al plan de análisis y tratamiento de riesgos.
