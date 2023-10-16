@@ -23,28 +23,31 @@
         .cajon.color-primario.color-fondo.p-4
           p.mb-0 El concepto de base de datos ha evolucionado de forma acelerada; anteriormente, cada dato se diseñaba para ser manipulado por un programa o aplicación específica, perdiendo velocidad la aplicación, para la consulta de información o para el desarrollo de procesos específicos que administra en determinado momento. En la actualidad, las BD están diseñadas con estructuras propias capaces de “correr” en diversas aplicaciones, generando mayores eficiencias en sus tareas, (evitando modificaciones o costosos e ineficientes reprocesos). 
     
-    p.mb-4 El SGBD pretende, mediante algunas técnicas, obtener:
+    p.mb-0 El SGBD pretende, mediante algunas técnicas, obtener:
     
-    SlyderF.mb-5.slyder-g(columnas="col-md-6 col-xl-4")
-      .tarjeta.h-100.p-4(style='background-color: #CFE5B6')
-        .row.justify-content-center
-          .col-md-7.col-5.mb-3
-            img(data-aos="flip-up" src='@/assets/curso/temas/tarjetas/avatar1.svg' alt='dibujo relacionado')      
-        h4.text-center Independencia de los datos
-        p.text-center Los cambios en la estructura de la BD no modifican las aplicaciones.
+    .row.justify-content-center
+      .col-lg-4.my-5
+        .tarjeta.h-100.p-4(style='background-color: #CFE5B6')
+          .row.justify-content-center
+            .col-md-7.col-5.mb-3
+              img(data-aos="flip-up" src='@/assets/curso/temas/tarjetas/avatar1.svg' alt='dibujo relacionado')      
+          h4.text-center Independencia de los datos
+          p.text-center Los cambios en la estructura de la BD no modifican las aplicaciones.
 
-      .tarjeta.h-100.p-4(style='background-color: #CFE5B6')
-        .row.justify-content-center
-          .col-md-7.col-5.mb-3
-            img(data-aos="zoom-in-up" src='@/assets/curso/temas/tarjetas/avatar2.svg' alt='dibujo relacionado')    
-        h4.text-center Integridad de los datos
-        p.text-center Los datos han de ser siempre correctos. Se establecen una serie de restricciones (reglas de validación) sobre los datos. 
-      .tarjeta.h-100.p-4(style='background-color: #CFE5B6')
-        .row.justify-content-center
-          .col-md-7.col-5.mb-3
-            img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar3.svg' alt='dibujo relacionado')
-        h4.text-center Seguridad de los datos
-        p.text-center Control de acceso a los datos, para evitar manipulaciones no deseadas.
+      .col-lg-4.my-5
+        .tarjeta.h-100.p-4(style='background-color: #CFE5B6')
+          .row.justify-content-center
+            .col-md-7.col-5.mb-3
+              img(data-aos="zoom-in-up" src='@/assets/curso/temas/tarjetas/avatar2.svg' alt='dibujo relacionado')    
+          h4.text-center Integridad de los datos
+          p.text-center Los datos han de ser siempre correctos. Se establecen una serie de restricciones (reglas de validación) sobre los datos. 
+      .col-lg-4.my-5          
+        .tarjeta.h-100.p-4(style='background-color: #CFE5B6')
+          .row.justify-content-center
+            .col-md-7.col-5.mb-3
+              img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar3.svg' alt='dibujo relacionado')
+          h4.text-center Seguridad de los datos
+          p.text-center Control de acceso a los datos, para evitar manipulaciones no deseadas.
 
     p.mb-4 Las bases de datos también tienen algunas características que las identifican.
 
